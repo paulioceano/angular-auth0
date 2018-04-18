@@ -1,21 +1,16 @@
-# Auth0 Angular Samples
+# Auth0 AngularJS Samples
 
-[![CircleCI](https://circleci.com/gh/auth0-samples/auth0-angular-samples.svg?style=svg)](https://circleci.com/gh/auth0-samples/auth0-angular-samples)
+These samples demonstrate how to add authentication to an AngularJS application with Auth0. Each folder contains a distinct application so that various Auth0 features can be viewed in isolation. You can read about these examples in our [AngularJS Quickstart](https://auth0.com/docs/quickstart/spa/angularjs).
 
+These samples use Auth0's [hosted login page](https://auth0.com/docs/hosted-pages/login) which offers the fastest, most secure, and most feature-rich way to add authentication to your app.
 
-These samples demonstrate how to add authentication to an Angular application with Auth0. Each folder contains a distinct application so that various Auth0 features can be viewed in isolation. You can read about these examples in our [Angular Quickstart](https://auth0.com/docs/quickstart/spa/angular2).
-
-## Embedded Integration Samples
-
-These samples use Auth0's [universal login page](https://auth0.com/docs/hosted-pages/login) which offers the fastest, most secure, and most feature-rich way to add authentication to your app.
-
-For samples which demonstrate how to embed the Lock widget or a custom login form directly into your application, see the [embedded-login](https://github.com/auth0-samples/auth0-angular-samples/tree/embedded-login) branch.
+For examples which demonstrate embedding the Lock widget directly into your application, see the [embedded-login](https://github.com/auth0-samples/auth0-angularjs-samples/tree/embedded-login) branch.
 
 ## What is Auth0?
 
 Auth0 helps you to:
 
-* Add authentication with [multiple authentication sources](https://docs.auth0.com/identityproviders), either social like **Google, Facebook, Microsoft Account, LinkedIn, GitHub, Twitter, Box, Salesforce, among others**, or enterprise identity systems like **Windows Azure AD, Google Apps, Active Directory, ADFS or any SAML Identity Provider**.
+* Add authentication with [multiple authentication sources](https://docs.auth0.com/identityproviders), either social like **Google, Facebook, Microsoft Account, LinkedIn, GitHub, Twitter, Box, Salesforce, amont others**, or enterprise identity systems like **Windows Azure AD, Google Apps, Active Directory, ADFS or any SAML Identity Provider**.
 * Add authentication through more traditional **[username/password databases](https://docs.auth0.com/mysql-connection-tutorial)**.
 * Add support for **[linking different user accounts](https://docs.auth0.com/link-accounts)** with the same user.
 * Support for generating signed [Json Web Tokens](https://docs.auth0.com/jwt) to call your APIs and **flow the user identity** securely.
@@ -33,8 +28,8 @@ If you have found a bug or if you have a feature request, please report them at 
 
 ## Author
 
-[Auth0](https://auth0.com)
+[Auth0](auth0.com)
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
+This project is licensed under the MIT license. See the [LICENSE](LICENSE.txt) file for more info.
